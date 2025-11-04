@@ -4,7 +4,9 @@
 
 ### Algoritmos Implementados
 - **Canny Edge Detection**: Segmentação por bordas
+  - O Canny detecta bordas em imagens encontrando onde a intensidade das cores muda bruscamente. Ele é como um "contornador" inteligente que desenha linhas onde terminam objetos e começam outros
 - **K-means Clustering**: Segmentação baseada em agrupamento
+  - O K-means agrupa pixels parecidos. Se você pedir para ele encontrar 4 grupos (K=4), ele vai juntar todos os pixels similares em 4 "clusters" de cores
 
 ### Como Executar
 #### Google Colab 

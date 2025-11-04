@@ -18,6 +18,7 @@
 
 ### Técnica Implementada
 - **Esqueleto do Objeto (Skeleton)**: Representação do eixo medial preservando topologia e conectividade
+  - O algoritmo de esqueletização "afina" o objeto até sobrar apenas sua linha central, preservando a forma básica e as conexões
 
 ### Como Executar
 #### Google Colab
